@@ -11,10 +11,6 @@ echo "Installowanie Gimp"
 echo ""
 winget install -e --id GIMP.GIMP
 echo ""
-echo "Installowanie Vivaldi"
-echo ""
-winget install -e --id VivaldiTechnologies.Vivaldi
-echo ""
 echo "Installowanie Steam"
 echo ""
 winget install -e --id Valve.Steam
@@ -50,10 +46,6 @@ echo ""
 echo "Installowanie Chrome"
 echo ""
 winget install -e --id Google.Chrome
-echo ""
-echo "Installowanie Audacity"
-echo ""
-winget install -e --id Audacity.Audacity
 echo ""
 echo "Installowanie Curse"
 echo ""
